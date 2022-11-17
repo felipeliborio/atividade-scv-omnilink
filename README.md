@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>Eberson Santos</td>
+    <td>Desenvolvedor Pleno</td>
+  </tr>
 </table>
