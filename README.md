@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>Danillo Bion</td>
+    <td>Desenvolvedor Front-end</td>
+  </tr>
 </table>
