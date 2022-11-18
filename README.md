@@ -17,4 +17,8 @@
     <td>Eberson Santos</td>
     <td>Desenvolvedor Pleno</td>
   </tr>
+  <tr>
+    <td>Felipe Libório</td>
+    <td>Desenvolvedor</td>
+  </tr>
 </table>
