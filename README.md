@@ -10,6 +10,10 @@
     <td>Professor</td>
   </tr>
   <tr>
+    <td>Adelino Lourenço</td>
+    <td>Analista de Software</td>
+  </tr>
+  <tr>
     <td>Eberson Santos</td>
     <td>Desenvolvedor Pleno</td>
   </tr>
