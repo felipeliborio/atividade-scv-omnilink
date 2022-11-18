@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>Nome</th>
+     <th>Nome</th>
     <th>Fun&ccedil;&atilde;o na Omnilink Tecnologia</th>
   </tr>
   <tr>
@@ -25,8 +25,11 @@
     <td>Danillo Bion</td>
     <td>Desenvolvedor Front-end</td>
   </tr>
- </tr>
+  </tr>
     <td>João Bosco Jr</td>
     <td>analista de software jr</td>
   </tr>
+     <th>Júlio Henrique Rodrigues</th>
+     <th>Coordenador de Sustentação e Mobile</th>
+   </tr>
 </table>
