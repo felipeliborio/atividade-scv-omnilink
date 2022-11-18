@@ -13,4 +13,8 @@
     <td>Felipe Libório</td>
     <td>Desenvolvedor</td>
   </tr>
+  <tr>
+    <td>Adelino Lourenço</td>
+    <td>Analista de Software</td>
+  </tr>
 </table>
